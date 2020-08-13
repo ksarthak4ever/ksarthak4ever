@@ -1,6 +1,6 @@
 **GET /me HTTP/2.0**
 
-### Hi! Sarthak there 👋
+### Hi! Sarthak here 👋
 
 Welcome to my playground on the internet!
 
